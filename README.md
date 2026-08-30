@@ -1,18 +1,18 @@
-# -const story = {
+const story = {
   s1Title: '편지당? 💌',
   s1Text: '봉투 눌러서 열엉',
-  s2Title: '안뇽! 💗',
-  s2Text: '땡땡아!',
+  s2Title: '안냥! 💗',
+  s2Text: '오빠!',
   s2Hint: '하트를 눌러봥 💕',
   s3Title: '나 사랑하쥐?? 🥺',
-  s4Title: '헤헷 나더 땡땡이 사랑해 ❤️',
-  s4Text: '땡땡아 사랑햄',
+  s4Title: '헤헷 나더 오빠 사랑해 ❤️',
+  s4Text: '오빠 사랑행‘,
   s4Hint: '하트를 눌러 💗',
-  s5MainText: '땡땡이 요즘 뭐뭐해',
+  s5MainText: '오빠 요즘 뭐뭐해',
   s5SubText: '하트 눌러봐랏',
   s5Note: '눌러랏ㅡㅡ ',
   s6Title: '하잇!',
-  s6Text: '할말은없엉ㅎㅎ 그냥 사랑한다고 전하고 싶더라구 사랑햄💗',
+  s6Text: '할말은없엉ㅎㅎ 그냥 사랑한다고 전하고 싶더라구 사랑행💗',
 };
 
 const screens = document.querySelectorAll('.screen');
